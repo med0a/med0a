@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Ajoute tes liens ici si besoin -->
+Here is a link to access my portfolio: https://myportfolio-med0a.netlify.app/
+At the bottom of the page, you’ll find a contact form. Feel free to leave a message, I’ll do my best to respond as quickly as possible :) 
 </p>
 
 ---
