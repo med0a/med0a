@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Repository</h1>
-<h3 align="left">From Zero to Hero: A Woman’s Journey into Tech</h3>
+<h3 align="left"> A Woman’s Journey into Tech</h3>
 
 - ⚡ Fun fact: **"I didn’t choose tech, it chose me."**
 
@@ -10,7 +10,7 @@
 Here is a link to access my portfolio: https://myportfolio-med0a.netlify.app/
 At the bottom of the page, you’ll find a contact form. Feel free to leave a message, I’ll do my best to respond as quickly as possible :) 
 </p>
-<p> Right here a link to my blog , i post my thoughts, my tutorials and documentations and all topics that i have interest on , enjoy  : 
+<p> Right here a link to my blog ,there, i post my thoughts, my tutorials and documentations and all topics that i have interest in , enjoy  : 
  https://haveatechbreak.netlify.app
 </p>
 ---
