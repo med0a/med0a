@@ -2,16 +2,19 @@
 <h3 align="left"> A Woman’s Journey into Tech</h3>
 
 - ⚡ Fun fact: **"I didn’t choose tech, it chose me."**
-
+  
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Here is a link to access my portfolio: https://myportfolio-med0a.netlify.app/
-At the bottom of the page, you’ll find a contact form. Feel free to leave a message, I’ll do my best to respond as quickly as possible :) 
+<h5> Portfolio </h5> 
+Check out my work and projects: https://myportfolio-med0a.netlify.app/
+A contact form is available at the bottom of the page — feel free to reach out!
 </p>
-<p> Right here a link to my blog ,there, i post my thoughts, my tutorials and documentations and all topics that i have interest in , enjoy  : 
- https://haveatechbreak.netlify.app
+<p> 
+ <h5> Blog</h5>
+ I write about topics that inspire me — tutorials, thoughts, documentation, and more.  
+Take a break and explore:  https://haveatechbreak.netlify.app
 </p>
 ---
 
