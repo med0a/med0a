@@ -8,9 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <h5> Portfolio </h5> 
-Check out my work and projects: https://myportfolio-med0a.netlify.app/
-For prevacy I'm not giving my real name and informations but my work is real , if you want farther connection with me :
-A contact form is available at the bottom of the page — feel free to reach out!
+Check out my work and projects: https://myportfolio-med0a.netlify.app/ <br>
+For privacy, I'm not giving my real name or personal information, but my work is genuine. If you want to connect further with me, a contact form is available at the bottom of the page — feel free to reach out!
   
 </p>
 <p> 
