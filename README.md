@@ -9,7 +9,9 @@
 <p align="left">
 <h5> Portfolio </h5> 
 Check out my work and projects: https://myportfolio-med0a.netlify.app/
+For prevacy I'm not giving my real name and informations but my work is real , if you want farther connection with me :
 A contact form is available at the bottom of the page — feel free to reach out!
+  
 </p>
 <p> 
  <h5> Blog</h5>
