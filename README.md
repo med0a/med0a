@@ -17,6 +17,9 @@ For privacy, I'm not giving my real name or personal information, but my work is
  I write about topics that inspire me — tutorials, thoughts, documentation, and more.  
 Take a break and explore:  https://haveatechbreak.netlify.app
 </p>
+
+<h5> Currently Learning</h5>
+Currently, I'm learning Spring Boot and some web technologies such as JavaScript and Angular, and I'm also trying to dive into AI fundamentals.
 ---
 
 <h2 align="left">Languages and Tools:</h2>
