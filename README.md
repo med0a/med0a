@@ -1,25 +1,25 @@
-<h1 align="center">👩‍💻 Welcome to My Repository</h1>
-<h3 align="center">A Woman’s Journey into Tech</h3>
+### <h1 align="center"> Welcome to My Repository</h1>
 
 ---
+### <h3 align="center">A Woman’s Journey into Tech</h3>
 
 ### ⚡ Fun Fact  
 > *“I didn’t choose tech, it chose me.”*
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 #### 🔗 Portfolio  
 Check out my work and projects:  
-👉 [myportfolio-med0a.netlify.app](https://myportfolio-med0a.netlify.app)
+ [myportfolio-med0a.netlify.app](https://myportfolio-med0a.netlify.app)
 
 > *For privacy, I’m not sharing my real name or personal details, but my work is genuine.  
 If you’d like to connect, a contact form is available at the bottom of the page — feel free to reach out!*
 
 #### 📝 Blog  
 I write about tutorials, documentation, and thoughts that inspire me:  
-👉 [haveatechbreak.netlify.app](https://haveatechbreak.netlify.app)
+ [haveatechbreak.netlify.app](https://haveatechbreak.netlify.app)
 
 ---
 
@@ -61,5 +61,5 @@ I’m currently exploring **Spring Boot**, **JavaScript**, **Angular**, and divi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med0a&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
