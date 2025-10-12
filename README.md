@@ -77,3 +77,4 @@ Currently, I'm learning Spring Boot and some web technologies such as JavaScript
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
