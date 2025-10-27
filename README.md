@@ -9,14 +9,7 @@
 ---
 
 ### Connect with Me
-
-#### 🔗 Portfolio  
-Check out my work and projects:  
- [myportfolio-med0a.netlify.app](https://myportfolio-med0a.netlify.app)
-
-> *For privacy, I’m not sharing my real name or personal details, but my work is genuine.  
-If you’d like to connect, a contact form is available at the bottom of the page — feel free to reach out!*
-
+ 
 #### 📝 Blog  
 I write about tutorials, documentation, and thoughts that inspire me:  
  [haveatechbreak.netlify.app](https://haveatechbreak.netlify.app)
