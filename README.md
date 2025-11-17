@@ -1,13 +1,6 @@
 ### <h1 align="center"> Welcome to My Repository</h1>
 
 ---
-### <h3 align="center">A Woman’s Journey into Tech</h3>
-
-### ⚡ Fun Fact  
-> *“I didn’t choose tech, it chose me.”*
-
----
-
 ### Connect with Me
  
 #### 📝 Blog  
